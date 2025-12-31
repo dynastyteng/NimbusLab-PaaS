@@ -40,21 +40,6 @@ graph TD
 - **Django**
 - **Flask**
 
-## ⚠️ Identified Issues & Roadmap
-
-During the project analysis, the following areas were identified for improvement:
-
-### Critical Fixes
-- [ ] **Security**: Remove hardcoded credentials from `main.py` and Terraform files. Move to environment variables (`.env`).
-- [ ] **SSH Security**: Switch from password-based SSH to SSH Key authentication.
-- [ ] **Hardcoding**: Parameterize Proxmox Node and IP addresses.
-
-### Technical Debt
-- [ ] **Port Management**: Implement a persistent port registry (currently in-memory only).
-- [ ] **Docker Flexiblity**: Allow custom Dockerfiles or detection of custom start scripts.
-- [ ] **Cleanup**: Add functionality to stop and destroy deployments from the UI.
-- [ ] **Error Handling**: Improve script execution logging to provide more granular failure causes.
-
 ## 🔧 Prerequisites
 
 - **Proxmox VE Server**: Running and accessible via API.
